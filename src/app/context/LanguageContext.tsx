@@ -15,7 +15,7 @@ const translations: Record<Language, Record<string, string>> = {
     familyPortal: "家屬介面",
     admin: "管理員",
     // hero
-    heroTag: "桃竹苗地區長照社會創新 NPO",
+    heroTag: "桃竹苗地區長照社會創新",
     heroTitle: "用捐血換取居家照護，守護長輩、留住回憶",
     heroDesc: "Vigil Keepers 提供整合健康監測、媒體播放與數位遺產的一體式居家照護設備。每次捐血累積點數，可直接折抵設備費用，讓善心捐血成為守護家人最實際的方式。",
     elderEntry: "長輩入口",
@@ -68,7 +68,7 @@ const translations: Record<Language, Record<string, string>> = {
     c3: "設備操作簡易，適合長輩使用",
     c4: "家屬可自行上傳內容，增進互動",
     // footer
-    footerDesc: "桃竹苗長照社會創新 NPO，結合捐血點數、居家照護設備與數位遺產服務，讓善行成為家人最好的長照保障。",
+    footerDesc: "桃竹苗長照社會創新，結合捐血點數、居家照護設備與數位遺產服務，讓善行成為家人最好的長照保障。",
     footerCopy: "© 2026 Vigil Keepers · 守護者計畫 · 非營利組織",
     address: "桃園市中壢區中大路 300 號",
     // pages
@@ -250,7 +250,7 @@ const translations: Record<Language, Record<string, string>> = {
     familyPortal: "Family View",
     admin: "Admin",
     // hero
-    heroTag: "NPO for Elder Care Innovation · Taoyuan Region",
+    heroTag: "Elder Care Innovation · Taoyuan Region",
     heroTitle: "Blood Donation Points for Elder Care — Monitor, Connect, and Preserve Memories",
     heroDesc: "Vigil Keepers provides an all-in-one home care device combining health monitoring, family media playback, and digital legacy recording. Donate blood to earn points redeemable for device discounts — turning every donation into lasting care for your loved ones.",
     elderEntry: "Elder Portal",
@@ -303,7 +303,7 @@ const translations: Record<Language, Record<string, string>> = {
     c3: "Easy-to-use device suitable for elderly users",
     c4: "Family can upload content anytime to enhance interaction",
     // footer
-    footerDesc: "NPO for elder care innovation in the Taoyuan region, combining blood donation points, home care devices, and digital legacy services.",
+    footerDesc: "Elder care innovation in the Taoyuan region, combining blood donation points, home care devices, and digital legacy services.",
     footerCopy: "© 2026 Vigil Keepers · Guardian Program · Non-Profit Organization",
     address: "No. 300, Zhongda Rd., Zhongli District, Taoyuan City",
     // pages
